@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Vacenzo Hoster",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NotFairServer.aternos.me",
+    "ip": "Survival_VacenZo.aternos.me",
     
     "port": 34488,
     "version": "1.20.1",
@@ -32,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
